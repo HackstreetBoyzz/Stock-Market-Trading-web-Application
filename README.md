@@ -241,9 +241,9 @@ This structure demonstrates a well-organized, scalable architecture that separat
 **Abhinav**
 GitHub: [@abhii-navv](https://github.com/abhii-navv)
 **Ethish**
-GitHub:[@abhii-navv](https://github.com/Ethish107)
+GitHub:[@Ethish107](https://github.com/Ethish107)
 **Vivek**
-GitHub:[@abhii-navv](https://github.com/abhii-navv)
+GitHub:[@NamburiVivek](https://github.com/NamburiVivek)
 **Kuldeep**
 GitHub:[@abhii-navv](https://github.com/abhii-navv)
 

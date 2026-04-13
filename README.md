@@ -234,3 +234,16 @@ Based on the PHP files, the system uses these main database tables:
 - Descriptive names: Bull-removebg-preview.png
 
 This structure demonstrates a well-organized, scalable architecture that separates concerns between frontend presentation, backend logic, and data management while maintaining individual handlers for each company's stock operations.
+
+
+## 👤 Author
+
+**Abhinav**
+GitHub: [@abhii-navv](https://github.com/abhii-navv)
+**Ethish**
+GitHub:[@abhii-navv](https://github.com/Ethish107)
+**Vivek**
+GitHub:[@abhii-navv](https://github.com/abhii-navv)
+**Kuldeep**
+GitHub:[@abhii-navv](https://github.com/abhii-navv)
+
